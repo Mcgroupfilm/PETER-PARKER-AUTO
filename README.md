@@ -58,7 +58,7 @@
 
 ## Deploy to Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/matrixbotz0/PETER-PARKER-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mcgroupfilm/PETER-PARKER-AUTO)
 
 ## Deploy to Koyeb
 
